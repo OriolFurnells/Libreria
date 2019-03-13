@@ -111,13 +111,10 @@ function portada(array) {
 		aElementBack.appendChild(imageBack);
 		//apendeamos las imagenes al cuerpo de la pagina
 
-		//damos id a los div
-		divFront.setAttribute("id", "libreria-front");
-		divBack.setAttribute("id", "libreria-back");
-		divInner.setAttribute("id", "libreria-inner");
-		divAll.setAttribute("id", "libreria-all");
-		divTitulo.setAttribute("id", "textoTitulo");
-		divDescr.setAttribute("id", "textoDescr");
+
+		
+		
+		
 
 		//damos class a los div
 		divFront.setAttribute("class", "libreria-front");
